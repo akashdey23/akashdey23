@@ -45,7 +45,7 @@
 
 ## My badge
 
-[![LeetCode user akashh023](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fakashh023&logo=leetcode&logoColor=yellow)](https://leetcode.com/akashh023/)
+![LeetCode Stats](https://leetcode.card.workers.dev/akashh023?theme=dark&font=baloo&extension=activity)
 
 <h2 align="center">📊 Github Statistics </h2>
 </><p align="center">
