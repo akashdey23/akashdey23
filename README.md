@@ -44,8 +44,9 @@
 <br>
 
 ## My badge
-
-![LeetCode Stats](https://leetcode.card.workers.dev/akashh023?theme=dark&font=baloo&extension=activity)
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/akashh023?theme=unicorn&font=baloo&extension=activity" alt="LeetCode Stats"/>
+</p>
 
 <h2 align="center">📊 Github Statistics </h2>
 </><p align="center">
