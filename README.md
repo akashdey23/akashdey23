@@ -3,13 +3,13 @@
  <img src="https://komarev.com/ghpvc/?username=akashdey23" alt="Akashdey" /> 
 <p align="center">
 
-- 📃 My Resume as of July 2024 - <a href = "#">Resume</a>
+- 📃 My Resume as of July 2024 - <a href = "https://www.linkedin.com/in/akashdey23/overlay/1723639081924/single-media-viewer?type=DOCUMENT&profileId=ACoAAEAjkYQBNk0pIi9Nk4d6hn6dIPpmc1tzCe8&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BznJjcA0KSbmgpLOuoBEgfg%3D%3D">Resume</a>
 
 - 🔭 I’m currently working on **ReactJS and NodeJS**
 
 - 🤔 I’m looking for help with **MERN Stack Development**
 
-- ⚡ Check out my Portfolio Website <a href = "#">Here</a>
+- ⚡ Check out my Portfolio Website <a href = "https://akash-o-pedia.vercel.app/">Here</a>
 
 - 📫 How to reach me **akashdey9128@gmail.com**
 
