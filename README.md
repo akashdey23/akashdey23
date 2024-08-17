@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with **MERN Stack Development**
 
-- ⚡ Check out my Portfolio Website <a href = "https://akash-o-pedia.vercel.app/">Here</a>
+- ⚡ Check out my Portfolio Website <a href = "https://akashdey23.github.io/react_pf">Here</a>
 
 - 📫 How to reach me **akashdey9128@gmail.com**
 
